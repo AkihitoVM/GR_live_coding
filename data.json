@@ -1,0 +1,212 @@
+[
+    {
+        "name": "program1",
+        "type": "PROGRAM",
+        "createdAt": "2021-01-11"
+    },
+    {
+        "name": "program2",
+        "type": "PROGRAM",
+        "createdAt": null
+    },
+    {
+        "name": "program3",
+        "type": "PROGRAM",
+        "createdAt": "2021-02-27"
+    },
+    {
+        "name": "program4",
+        "type": "PROGRAM",
+        "createdAt": "2021-01-11"
+    },
+    {
+        "name": "program5",
+        "type": "PROGRAM"
+    },
+    {
+        "name": "program6",
+        "type": "PROGRAM",
+        "createdAt": "2021-02-22"
+    },
+    {
+        "name": "program7",
+        "type": "PROGRAM",
+        "createdAt": "2021-01-11"
+    },
+    {
+        "name": "program8",
+        "type": "PROGRAM",
+        "createdAt": "2021-01-15"
+    },
+    {
+        "name": "program9",
+        "type": "PROGRAM",
+        "createdAt": "2021-01-01"
+    },
+    {
+        "name": "cvicenie1",
+        "type": "EXERCISE",
+        "programs": "program2"
+    },
+    {
+        "name": "cvicenie2",
+        "type": "EXERCISE",
+        "programs": [
+            "program1",
+            "program2",
+            "program3"
+        ]
+    },
+    {
+        "name": "cvicenie3",
+        "type": "EXERCISE",
+        "programs": [
+            "program5",
+            "program8"
+        ]
+    },
+    {
+        "name": "cvicenie4",
+        "type": "EXERCISE"
+    },
+    {
+        "name": "cvicenie5",
+        "type": "EXERCISE",
+        "programs": [
+            "program5",
+            "program6"
+        ]
+    },
+    {
+        "name": "cvicenie6",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4",
+            "program5"
+        ]
+    },
+    {
+        "name": "cvicenie7",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie8",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program5"
+        ]
+    },
+    {
+        "name": "cvicenie9",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4",
+            "program8"
+        ]
+    },
+    {
+        "name": "cvicenie10",
+        "type": "EXERCISE",
+        "programs": "program4"
+    },
+    {
+        "name": "cvicenie11",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program7"
+        ]
+    },
+    {
+        "name": "cvicenie12",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie13",
+        "type": "EXERCISE",
+        "programs": "program1"
+    },
+    {
+        "name": "cvicenie14",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie15",
+        "type": "EXERCISE",
+        "programs": [
+            "program6",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie16",
+        "type": "EXERCISE",
+        "programs": null
+    },
+    {
+        "name": "cvicenie17",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie18",
+        "type": "EXERCISE",
+        "programs": [
+            "program2",
+            "program7"
+        ]
+    },
+    {
+        "name": "cvicenie19",
+        "type": "EXERCISE",
+        "programs": "program4"
+    },
+    {
+        "name": "cvicenie28",
+        "type": "EXERCISE"
+    },
+    {
+        "name": "cvicenie20",
+        "type": "EXERCISE",
+        "programs": [
+            "program3",
+            "program5"
+        ]
+    },
+    {
+        "name": "cvicenie21",
+        "type": "EXERCISE",
+        "programs": [
+            "program6",
+            "program4"
+        ]
+    },
+    {
+        "name": "cvicenie22",
+        "type": "EXERCISE",
+        "programs": "program8"
+    },
+    {
+        "name": "cvicenie23",
+        "type": "EXERCISE",
+        "programs": null
+    }
+]

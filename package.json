@@ -1,0 +1,17 @@
+{
+  "name": "GR_live_coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
